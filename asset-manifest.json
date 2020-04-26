@@ -5,9 +5,12 @@
   "hooks__useTitle__index.md.js": "/react-code-snippets/hooks__useTitle__index.md.513bf401.async.js",
   "index.md.js": "/react-code-snippets/index.md.a1e02880.async.js",
   "umi.css": "/react-code-snippets/umi.3e9e1ab7.css",
-  "umi.js": "/react-code-snippets/umi.76b03147.js",
+  "umi.js": "/react-code-snippets/umi.67cc144b.js",
   "vendors~hooks__useTitle__index.md.css": "/react-code-snippets/vendors~hooks__useTitle__index.md.1795d5d7.chunk.css",
-  "vendors~hooks__useTitle__index.md.js": "/react-code-snippets/vendors~hooks__useTitle__index.md.ca15127d.async.js",
+  "vendors~hooks__useTitle__index.md.js": "/react-code-snippets/vendors~hooks__useTitle__index.md.4be927a7.async.js",
+  "hooks/index.html": "/react-code-snippets/hooks/index.html",
+  "hooks/use-scroll/index.html": "/react-code-snippets/hooks/use-scroll/index.html",
+  "hooks/use-title/index.html": "/react-code-snippets/hooks/use-title/index.html",
   "index.html": "/react-code-snippets/index.html",
   "static/katex.min.css": "/react-code-snippets/static/KaTeX_Typewriter-Regular.d3c8e68f.woff"
 }
